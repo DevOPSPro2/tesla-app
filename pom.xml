@@ -7,12 +7,12 @@
 	<packaging>war</packaging>
 	<version>0.0.1</version>
 	
-	<name>maven-web-application</name>
+	<name>tesla-test</name>
 
 	<description>Maven Web Project for Java Project</description>
 	<organization>
-		<name>Landmark Technologies</name>
-		<url>https://github.com/twitter31/</url>
+		<name>DevOPSPro2</name>
+		<url>https://github.com/DevOPSPro2/tesla-app/</url>
 	</organization>
 
 	<properties>
@@ -95,13 +95,13 @@
 		
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Pru_devops Releases Nexus Repository</name>
 	      <url>http://http://172.31.9.164:8081/repository/tesla-web-releases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Pru_devops Snapshot Nexus Repository </name>
 	      <url>http://172.31.9.164:8081/repository/tesla-web-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
